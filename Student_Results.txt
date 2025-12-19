@@ -1,0 +1,31 @@
+students marks report
+Student: Ramesh
+Maths : 85.0
+Python : 90.0
+Automata : 78.0
+ML : 88.0
+Data Analytics : 92.0
+Total Marks : 433.0
+Percentage : 86.6
+Grade : B
+Student: Rahul
+Maths : 72.0
+Python : 68.0
+Automata : 70.0
+ML : 75.0
+Data Analytics : 73.0
+Total Marks : 358.0
+Percentage : 71.6
+Grade : C
+Student: Arjun
+Maths : 45.0
+Python : 50.0
+Automata : 48.0
+ML : 52.0
+Data Analytics : 46.0
+Total Marks : 241.0
+Percentage : 48.199999999999996
+Grade : Fail
+
+
+
