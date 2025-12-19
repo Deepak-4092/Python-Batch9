@@ -1,0 +1,15 @@
+Total Marks: 253
+Percentage: 50.6%
+Grade: C
+-----------------------------
+Total Marks: 318
+Percentage: 63.6%
+Grade: B
+-----------------------------
+Total Marks: 375
+Percentage: 75.0%
+Grade: A
+-----------------------------
+Total Marks: 350
+Percentage: 70.0%
+Grade: B
